@@ -18,6 +18,5 @@
     "sonolus-wiki-theme": "git+https://github.com/Sonolus/wiki-theme.git",
     "tailwindcss": "^2.2.16",
     "vuepress": "^2.0.0-beta.26"
-  },
-  "dependencies": {}
+  }
 }
