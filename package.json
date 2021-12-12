@@ -1,6 +1,6 @@
 {
   "name": "sonolus-wiki-sonolus.js-guide",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docs:dev": "vuepress dev docs --port 9000",
