@@ -5,14 +5,12 @@ export default bootstrap({
 
     prism: ['ts', 'js', 'json', 'bash'],
     code: {
-        languages: ['TS', 'JS'],
-        path: {
-            template:
-                'https://github.com/Sonolus/wiki-sonolus.js-guide-code/blob/',
-            params: [
-                ['ts', 'ts'],
-                ['js', 'mjs'],
-            ],
-        },
+        codeLanguages: ['TS', 'JS'],
+        codePathTemplate:
+            'https://github.com/Sonolus/wiki-sonolus.js-guide-code/blob/',
+        codePathParams: [
+            ['ts', 'ts'],
+            ['js', 'mjs'],
+        ],
     },
 })

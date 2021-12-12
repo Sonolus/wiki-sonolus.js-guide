@@ -1,31 +1,37 @@
-{
-    "Sonolus.js Guide": {
-        "Introduction": "/"
+[
+    {
+        "title": "Sonolus.js Guide",
+        "pages": {
+            "/": "Introduction"
+        }
     },
-    "Chapters": {
-        "01. Development Environment Setup": "/chapters/01",
-        "02. Nodes": "/chapters/02",
-        "03. Data Types": "/chapters/03",
-        "04. Code": "/chapters/04",
-        "05. Pointers": "/chapters/05",
-        "06. Setting up Development Server": "/chapters/06",
-        "07. Project Structure": "/chapters/07",
-        "08. Serve Setup": "/chapters/08",
-        "09. Lint and Build Setup": "/chapters/09",
-        "10. Initialization Script": "/chapters/10",
-        "11. Stage": "/chapters/11",
-        "12. Responding to Touch Events": "/chapters/12",
-        "13. Note and Entity Data": "/chapters/13",
-        "14. Note Drawing": "/chapters/14",
-        "15. Note Input": "/chapters/15",
-        "16. Test Level": "/chapters/16",
-        "17. Input Judgment": "/chapters/17",
-        "18. Input Buckets": "/chapters/18",
-        "19. Arcade Score": "/chapters/19",
-        "20. Life": "/chapters/20",
-        "21. SFX": "/chapters/21",
-        "22. Options": "/chapters/22",
-        "23. Particle Effect": "/chapters/23",
-        "24. UI Options": "/chapters/24"
+    {
+        "title": "Chapters",
+        "pages": {
+            "/chapters/01": "01. Development Environment Setup",
+            "/chapters/02": "02. Nodes",
+            "/chapters/03": "03. Data Types",
+            "/chapters/04": "04. Code",
+            "/chapters/05": "05. Pointers",
+            "/chapters/06": "06. Setting up Development Server",
+            "/chapters/07": "07. Project Structure",
+            "/chapters/08": "08. Serve Setup",
+            "/chapters/09": "09. Lint and Build Setup",
+            "/chapters/10": "10. Initialization Script",
+            "/chapters/11": "11. Stage",
+            "/chapters/12": "12. Responding to Touch Events",
+            "/chapters/13": "13. Note and Entity Data",
+            "/chapters/14": "14. Note Drawing",
+            "/chapters/15": "15. Note Input",
+            "/chapters/16": "16. Test Level",
+            "/chapters/17": "17. Input Judgment",
+            "/chapters/18": "18. Input Buckets",
+            "/chapters/19": "19. Arcade Score",
+            "/chapters/20": "20. Life",
+            "/chapters/21": "21. SFX",
+            "/chapters/22": "22. Options",
+            "/chapters/23": "23. Particle Effect",
+            "/chapters/24": "24. UI Options"
+        }
     }
-}
+]
