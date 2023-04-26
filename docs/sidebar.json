@@ -7,31 +7,6 @@
     },
     {
         "title": "Chapters",
-        "pages": {
-            "/chapters/01": "01. Development Environment Setup",
-            "/chapters/02": "02. Nodes",
-            "/chapters/03": "03. Data Types",
-            "/chapters/04": "04. Code",
-            "/chapters/05": "05. Pointers",
-            "/chapters/06": "06. Setting up Development Server",
-            "/chapters/07": "07. Project Structure",
-            "/chapters/08": "08. Serve Setup",
-            "/chapters/09": "09. Lint and Build Setup",
-            "/chapters/10": "10. Initialization Script",
-            "/chapters/11": "11. Stage",
-            "/chapters/12": "12. Responding to Touch Events",
-            "/chapters/13": "13. Note and Entity Data",
-            "/chapters/14": "14. Note Drawing",
-            "/chapters/15": "15. Note Input",
-            "/chapters/16": "16. Test Level",
-            "/chapters/17": "17. Input Judgment",
-            "/chapters/18": "18. Input Buckets",
-            "/chapters/19": "19. Arcade Score",
-            "/chapters/20": "20. Life",
-            "/chapters/21": "21. SFX",
-            "/chapters/22": "22. Options",
-            "/chapters/23": "23. Particle Effect",
-            "/chapters/24": "24. UI Options"
-        }
+        "pages": {}
     }
 ]
