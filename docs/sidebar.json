@@ -7,6 +7,29 @@
     },
     {
         "title": "Chapters",
-        "pages": {}
+        "pages": {
+            "/chapters/01": "01. Development Environment Setup",
+            "/chapters/02": "02. Archetypes and Entities",
+            "/chapters/03": "03. Initialization",
+            "/chapters/04": "04. Screen Coordinate System",
+            "/chapters/05": "05. Blocks and Sharing Immutable Data",
+            "/chapters/06": "06. Stage",
+            "/chapters/07": "07. Note and Entity Data",
+            "/chapters/08": "08. BPM and Beat",
+            "/chapters/09": "09. Note Spawning",
+            "/chapters/10": "10. Note Drawing",
+            "/chapters/11": "11. Note Input",
+            "/chapters/12": "12. Input Manager",
+            "/chapters/13": "13. Test Level",
+            "/chapters/14": "14. Input Judgment",
+            "/chapters/15": "15. Input Judgment",
+            "/chapters/16": "16. Arcade Score",
+            "/chapters/17": "17. Life",
+            "/chapters/18": "18. SFX",
+            "/chapters/19": "19. Particle Effect",
+            "/chapters/20": "20. Time Scale",
+            "/chapters/21": "21. Individual Fall Speed",
+            "/chapters/22": "22. Options"
+        }
     }
 ]
