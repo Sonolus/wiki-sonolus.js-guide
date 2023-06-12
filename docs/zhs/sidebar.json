@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Sonolus.js 指南",
+    "pages": {
+      "/": "介绍"
+    }
+  },
+  {
+    "title": "章节",
+    "pages": {
+      "/chapters/01": "01. 配置开发环境",
+      "/chapters/05": "05. 区块和共享不可变数据",
+      "/chapters/07": "07. 音符和实体数据",
+      "/chapters/08": "08. BPM 和节拍",
+      "/chapters/10": "10. 音符绘制",
+      "/chapters/11": "11. 音符输入",
+      "/chapters/12": "12. 输入管理器",
+      "/chapters/13": "13. 测试关卡",
+      "/chapters/18": "18. 音效",
+      "/chapters/19": "19. 粒子效果",
+      "/chapters/22": "22. 选项"
+    }
+  }
+]
