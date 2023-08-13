@@ -6,30 +6,44 @@
         }
     },
     {
-        "title": "Chapters",
+        "title": "Play",
         "pages": {
-            "/chapters/01": "01. Development Environment Setup",
-            "/chapters/02": "02. Archetypes and Entities",
-            "/chapters/03": "03. Initialization",
-            "/chapters/04": "04. Screen Coordinate System",
-            "/chapters/05": "05. Blocks and Sharing Immutable Data",
-            "/chapters/06": "06. Stage",
-            "/chapters/07": "07. Note and Entity Data",
-            "/chapters/08": "08. BPM and Beat",
-            "/chapters/09": "09. Note Spawning",
-            "/chapters/10": "10. Note Drawing",
-            "/chapters/11": "11. Note Input",
-            "/chapters/12": "12. Input Manager",
-            "/chapters/13": "13. Test Level",
-            "/chapters/14": "14. Input Judgment",
-            "/chapters/15": "15. Input Bucket",
-            "/chapters/16": "16. Arcade Score",
-            "/chapters/17": "17. Life",
-            "/chapters/18": "18. SFX",
-            "/chapters/19": "19. Particle Effect",
-            "/chapters/20": "20. Time Scale",
-            "/chapters/21": "21. Individual Fall Speed",
-            "/chapters/22": "22. Options"
+            "/play/01": "01. Development Environment Setup",
+            "/play/02": "02. Archetypes and Entities",
+            "/play/03": "03. Initialization",
+            "/play/04": "04. Screen Coordinate System",
+            "/play/05": "05. Blocks and Sharing Immutable Data",
+            "/play/06": "06. Stage",
+            "/play/07": "07. Note and Entity Data",
+            "/play/08": "08. BPM and Beat",
+            "/play/09": "09. Note Spawning",
+            "/play/10": "10. Note Drawing",
+            "/play/11": "11. Note Input",
+            "/play/12": "12. Input Manager",
+            "/play/13": "13. Test Level",
+            "/play/14": "14. Input Judgment",
+            "/play/15": "15. Input Bucket",
+            "/play/16": "16. Arcade Score",
+            "/play/17": "17. Life",
+            "/play/18": "18. SFX",
+            "/play/19": "19. Particle Effect",
+            "/play/20": "20. Time Scale",
+            "/play/21": "21. Individual Fall Speed",
+            "/play/22": "22. Options"
+        }
+    },
+    {
+        "title": "Tutorial",
+        "pages": {
+            "/tutorial/01": "01. Overview",
+            "/tutorial/02": "02. UI",
+            "/tutorial/03": "03. Screen",
+            "/tutorial/04": "04. Stage",
+            "/tutorial/05": "05. Note Display",
+            "/tutorial/06": "06. Note Segments",
+            "/tutorial/07": "07. Instructions",
+            "/tutorial/08": "08. SFX",
+            "/tutorial/09": "09. Particle Effect"
         }
     }
 ]
