@@ -33,6 +33,20 @@
         }
     },
     {
+        "title": "Watch",
+        "pages": {
+            "/watch/01": "01. Overview",
+            "/watch/02": "02. Lifetime",
+            "/watch/03": "03. Initialization",
+            "/watch/04": "04. Stage",
+            "/watch/05": "05. Note Lifetime",
+            "/watch/06": "06. Note Drawing",
+            "/watch/07": "07. Note Result",
+            "/watch/08": "08. SFX",
+            "/watch/09": "09. Particle Effect"
+        }
+    },
+    {
         "title": "Preview",
         "pages": {
             "/preview/01": "01. Overview",
