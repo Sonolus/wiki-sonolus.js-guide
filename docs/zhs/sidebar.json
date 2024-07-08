@@ -35,7 +35,21 @@
   {
     "title": "教程模式",
     "pages": {
-      "/tutorial/01": "01. 概述"
+      "/tutorial/01": "01. 概述",
+      "/tutorial/02": "02. UI",
+      "/tutorial/03": "03. 屏幕",
+      "/tutorial/04": "04. 舞台",
+      "/tutorial/05": "05. 音符显示",
+      "/tutorial/06": "06. 音符片段",
+      "/tutorial/07": "07. 介绍",
+      "/tutorial/08": "08. 音效",
+      "/tutorial/09": "09. 粒子效果"
+    }
+  },
+  {
+    "title": "预览模式",
+    "pages": {
+      "/preview/01": "01. 概述"
     }
   }
 ]
